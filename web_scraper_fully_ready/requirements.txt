@@ -8,3 +8,4 @@ openpyxl
 matplotlib
 numpy
 selenium
+webdriver-manager  ✅
